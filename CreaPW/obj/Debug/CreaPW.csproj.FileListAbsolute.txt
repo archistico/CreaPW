@@ -1,0 +1,10 @@
+C:\Users\ARCHI\AppData\Local\Temporary Projects\CreaPW\bin\Debug\CreaPW.exe.config
+D:\Programmazione\00Github\CreaPW\CreaPW\bin\Debug\CreaPW.exe.config
+D:\Programmazione\00Github\CreaPW\CreaPW\bin\Debug\CreaPW.exe
+D:\Programmazione\00Github\CreaPW\CreaPW\bin\Debug\CreaPW.pdb
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Debug\CreaPW.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Debug\CreaPW.Form1.resources
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Debug\CreaPW.Properties.Resources.resources
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Debug\CreaPW.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Debug\CreaPW.exe
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Debug\CreaPW.pdb

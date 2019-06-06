@@ -1,0 +1,9 @@
+D:\Programmazione\00Github\CreaPW\CreaPW\bin\Release\CreaPW.exe.config
+D:\Programmazione\00Github\CreaPW\CreaPW\bin\Release\CreaPW.exe
+D:\Programmazione\00Github\CreaPW\CreaPW\bin\Release\CreaPW.pdb
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Release\CreaPW.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Release\CreaPW.Form1.resources
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Release\CreaPW.Properties.Resources.resources
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Release\CreaPW.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Release\CreaPW.exe
+D:\Programmazione\00Github\CreaPW\CreaPW\obj\Release\CreaPW.pdb
